@@ -1,50 +1,50 @@
-"Fu":
+"fu":
   - firstname: ["Chi-Wing", "Chi Wing", "C. W."]
   - url: https://www.cse.cuhk.edu.hk/~cwfu/
 
-"Hu":
+"hu":
   - firstname: ["Xiaowei", "X."]
   - url: https://xw-hu.github.io/
 
-"Wang":
+"wang":
   - firstname: ["Tianyu", "T."]
     url: https://stevewongv.github.io/
 
-"Su":
+"su":
   - firstname: ["Kun", "K."]
     url: https://kun-su.netlify.app/
 
-"Zhang":
+"zhang":
   - firstname: ["Yutong", "Y."]
 
   - firstname: ["Hongxin", "H."]
     url: https://icefoxzhx.github.io/
 
-"Chen":
+"chen":
   - firstname: ["Jiaben", "J."]
     url: https://jiabenchen.github.io/
   
   - firstname: ["Peihao", "P."]
     url: https://peihaochen.github.io/
 
-"Qian":
+"qian":
   - firstname: ["Kaizhi", "K."]
 
-"Liu":
+"liu":
   - firstname: ["Gaowen", "G."]
 
-"Gan":
+"gan":
   - firstname: ["Chuang", "C."]
     url: https://people.csail.mit.edu/ganchuang/
   
-"Yang":
+"yang":
   - firstname: ["Yuncong", "Y."]
     url: https://yyuncong.github.io/
 
-"Zhou":
+"zhou":
   - firstname: ["Jiachen", "J."]
     url: https://www.linkedin.com/in/jiachen-zhou5/
 
-"Du":
+"du":
   - firstname: ["Yilun", "Y."]
     url: https://yilundu.github.io/
