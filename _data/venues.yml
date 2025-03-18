@@ -5,5 +5,14 @@
 "PhysRev":
   url: https://journals.aps.org/
 
-"Vision":
-  color: "#009f36"
+"ICCV'23":
+  color: "#004591"
+
+"arXiv":
+  color: "#B31B1B"
+
+"AAAI'25":
+  color: "#003973"
+
+"CVPR'25":
+  color: "#1B427D"

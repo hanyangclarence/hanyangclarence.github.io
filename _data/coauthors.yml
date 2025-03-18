@@ -1,34 +1,50 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Fu":
+  - firstname: ["Chi-Wing", "Chi Wing", "C. W."]
+  - url: https://www.cse.cuhk.edu.hk/~cwfu/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Hu":
+  - firstname: ["Xiaowei", "X."]
+  - url: https://xw-hu.github.io/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Wang":
+  - firstname: ["Tianyu", "T."]
+    url: https://stevewongv.github.io/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Su":
+  - firstname: ["Kun", "K."]
+    url: https://kun-su.netlify.app/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Zhang":
+  - firstname: ["Yutong", "Y."]
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+  - firstname: ["Hongxin", "H."]
+    url: https://icefoxzhx.github.io/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Chen":
+  - firstname: ["Jiaben", "J."]
+    url: https://jiabenchen.github.io/
+  
+  - firstname: ["Peihao", "P."]
+    url: https://peihaochen.github.io/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Qian":
+  - firstname: ["Kaizhi", "K."]
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Liu":
+  - firstname: ["Gaowen", "G."]
+
+"Gan":
+  - firstname: ["Chuang", "C."]
+    url: https://people.csail.mit.edu/ganchuang/
+  
+"Yang":
+  - firstname: ["Yuncong", "Y."]
+    url: https://yyuncong.github.io/
+
+"Zhou":
+  - firstname: ["Jiachen", "J."]
+    url: https://www.linkedin.com/in/jiachen-zhou5/
+
+"Du":
+  - firstname: ["Yilun", "Y."]
+    url: https://yilundu.github.io/
