@@ -54,8 +54,9 @@ layout: default
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
-      <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Publications & Preprints</a>
+      <h2 style="color: inherit;">
+        {% comment %} <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Publications & Preprints</a> {% endcomment %}
+        Publications & Preprints
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
