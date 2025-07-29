@@ -8,6 +8,7 @@ profile:
   align: right
   image: photo.jpg
   image_circular: false # crops the image to make it circular
+  max_width: 300px # Add this to control maximum width
   # more_info: >
   #   <p>CW Chu College</p>
   #   <p>The Chinese University of Hong Kong</p>
