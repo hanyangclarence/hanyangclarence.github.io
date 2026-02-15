@@ -1,25 +1,3 @@
-"fu":
-  - firstname: ["Chi-Wing", "Chi Wing", "C. W."]
-  - url: https://www.cse.cuhk.edu.hk/~cwfu/
-
-"hu":
-  - firstname: ["Xiaowei", "X."]
-  - url: https://xw-hu.github.io/
-
-"wang":
-  - firstname: ["Tianyu", "T."]
-    url: https://stevewongv.github.io/
-
-"su":
-  - firstname: ["Kun", "K."]
-    url: https://kun-su.netlify.app/
-
-"zhang":
-  - firstname: ["Yutong", "Y."]
-
-  - firstname: ["Hongxin", "H."]
-    url: https://icefoxzhx.github.io/
-
 "chen":
   - firstname: ["Jiaben", "J."]
     url: https://jiabenchen.github.io/
@@ -27,24 +5,65 @@
   - firstname: ["Peihao", "P."]
     url: https://peihaochen.github.io/
 
-"qian":
-  - firstname: ["Kaizhi", "K."]
-
-"liu":
-  - firstname: ["Gaowen", "G."]
+"du":
+  - firstname: ["Yilun", "Y."]
+    url: https://yilundu.github.io/
+    
+"fu":
+  - firstname: ["Chi-Wing", "Chi Wing", "C. W."]
+    url: https://www.cse.cuhk.edu.hk/~cwfu/
 
 "gan":
   - firstname: ["Chuang", "C."]
     url: https://people.csail.mit.edu/ganchuang/
-  
+
+"guo":
+  - firstname: ["Minghao"]
+    url: https://www.minghaoguo.com/
+
+"hu":
+  - firstname: ["Xiaowei", "X."]
+    url: https://xw-hu.github.io/
+
+"liu":
+  - firstname: ["Gaowen", "G."]
+
+"matusik":
+  - firstname: ["Wojciech"]
+    url: https://cdfg.csail.mit.edu/wojciech
+
+"qian":
+  - firstname: ["Kaizhi", "K."]
+
+"qiu":
+  - firstname: ["Xiaowen"]
+
+"su":
+  - firstname: ["Kun", "K."]
+    url: https://kun-su.netlify.app/
+
+"tenenbaum":
+  - firstname: ["Joshua B."]
+    url: https://web.mit.edu/cocosci/josh.html
+
+"wang":
+  - firstname: ["Tianyu", "T."]
+    url: https://stevewongv.github.io/
+  - firstname: ["Yian"]
+    url: https://wangyian-me.github.io/
+  - firstname: ["Tsun-Hsuan"]
+    url: https://zswang666.github.io/
+
 "yang":
   - firstname: ["Yuncong", "Y."]
     url: https://yyuncong.github.io/
 
+"zhang":
+  - firstname: ["Yutong", "Y."]
+
+  - firstname: ["Hongxin", "H."]
+    url: https://icefoxzhx.github.io/
+
 "zhou":
   - firstname: ["Jiachen", "J."]
     url: https://www.linkedin.com/in/jiachen-zhou5/
-
-"du":
-  - firstname: ["Yilun", "Y."]
-    url: https://yilundu.github.io/
