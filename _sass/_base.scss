@@ -751,9 +751,15 @@ footer.sticky-bottom {
         }
 
         .award {
-          color: var(--global-highlight-color) !important;
-          border: 1px solid var(--global-highlight-color);
+          color: var(--global-theme-color) !important;
+          border: 1px solid var(--global-theme-color);
         }
+      }
+
+      .oral-highlight {
+        color: var(--global-highlight-color);
+        font-weight: bold;
+        margin-left: 0.3em;
       }
 
       .title {

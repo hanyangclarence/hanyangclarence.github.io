@@ -178,6 +178,9 @@
     {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
     <div class="periodical">
       {{ periodical | strip }}
+      {% if entry.oral %}
+        <span class="oral-highlight">(Oral Presentation)</span>
+      {% endif %}
     </div>
     <div class="periodical">
       {{ entry.note | strip }}
