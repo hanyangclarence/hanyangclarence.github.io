@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: photo.jpg
+  image: IMG_1493.JPEG
   image_circular: false # crops the image to make it circular
   max_width: 300px # Add this to control maximum width
   # more_info: >
