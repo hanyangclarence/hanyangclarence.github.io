@@ -27,7 +27,7 @@ teaching:
 
 review:
   enabled: true
-  content: "AAAI'26, ICML'26"
+  content: "AAAI'26/27, ICML'26, NeurIPS'26, CoRL'26"
 
 announcements:
   enabled: false # includes a list of news items
