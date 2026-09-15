@@ -1,3 +1,7 @@
+"cao":
+  - firstname: ["Junyi", "J."]
+    url: https://xjay18.github.io/
+
 "chen":
   - firstname: ["Jiaben", "J."]
     url: https://jiabenchen.github.io/
@@ -21,6 +25,10 @@
   - firstname: ["Minghao"]
     url: https://www.minghaoguo.com/
 
+"han":
+  - firstname: ["Zhengtao", "Z."]
+    url: https://www.hanzht.com/
+
 "hu":
   - firstname: ["Xiaowei", "X."]
     url: https://xw-hu.github.io/
@@ -31,6 +39,10 @@
 "matusik":
   - firstname: ["Wojciech"]
     url: https://cdfg.csail.mit.edu/wojciech
+
+"ozyurt":
+  - firstname: ["Furkan", "F."]
+    url: https://www.linkedin.com/in/ozyurtf/
 
 "qian":
   - firstname: ["Kaizhi", "K."]
@@ -57,12 +69,18 @@
 "yang":
   - firstname: ["Yuncong", "Y."]
     url: https://yyuncong.github.io/
+  - firstname: ["Zeyuan", "Z."]
+    url: https://miicheyang.github.io/
 
 "zhang":
   - firstname: ["Yutong", "Y."]
 
   - firstname: ["Hongxin", "H."]
     url: https://icefoxzhx.github.io/
+
+"zhen":
+  - firstname: ["Haoyu", "H."]
+    url: https://haoyuzhen.com/
 
 "zhou":
   - firstname: ["Jiachen", "J."]
