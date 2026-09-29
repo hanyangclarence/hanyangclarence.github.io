@@ -50,6 +50,10 @@
 "qiu":
   - firstname: ["Xiaowen"]
 
+"song":
+  - firstname: ["Yunlong", "Y."]
+    url: https://yunlong-song.com/
+
 "su":
   - firstname: ["Kun", "K."]
     url: https://kun-su.netlify.app/
@@ -65,6 +69,10 @@
     url: https://wangyian-me.github.io/
   - firstname: ["Tsun-Hsuan"]
     url: https://zswang666.github.io/
+
+"xu":
+  - firstname: ["Zhenjia", "Z."]
+    url: https://www.zhenjiaxu.com/
 
 "yang":
   - firstname: ["Yuncong", "Y."]
